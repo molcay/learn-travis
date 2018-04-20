@@ -4,3 +4,5 @@ node_js:
 
 notifications:
     slack: bots-talk-test:OwKTEkz70Nvkt7E0aUQmFlIf
+    webhooks:
+      - https://fbfcb0e6.ngrok.io/wh/travisci

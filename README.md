@@ -1,3 +1,3 @@
 # learn-travis
 
-trial of slack integrations and webhooks on notifications
+Trial of slack integrations and webhooks on notifications
